@@ -1,1 +1,3 @@
-*.mcpb
+# Track all artifacts
+.gitignore
+*.log
